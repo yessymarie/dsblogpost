@@ -11,4 +11,4 @@ File structure:
 - `main.ipynb` file contains the code and the result of this project
 - `datasets` folder contains the raw data used for this project
 
-Blog Post Link: https://realitayessy.medium.com/demography-of-coders-8c598473e768
+Blog Post Link: [Demography of Coders in 2020]https://realitayessy.medium.com/demography-of-coders-8c598473e768
