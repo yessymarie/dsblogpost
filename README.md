@@ -20,9 +20,7 @@ In this project, I was intended to use Stack Overflow 2020 Survey to understand 
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+The main `.ipynb` is the notebook that consists of how the data can answer this Project purpose. The steps are also provided so it can assist in understanding the data from this project purpose point of view.
 
 ## Results<a name="results"></a>
 
